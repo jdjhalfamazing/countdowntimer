@@ -1,0 +1,23 @@
+.countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+
+  }
+  
+  .timer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    background-color:lightskyblue;
+    box-shadow: 2px 2px 15px black;
+  }
+  
+  .timer span {
+    margin: 0 1rem;
+    color: white;
+  }
+  
